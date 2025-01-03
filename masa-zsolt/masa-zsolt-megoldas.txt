@@ -1,5 +1,9 @@
 Backend
-
+c
+a
+c,b,e,a,d
+d
+b
 
 Asztali
 c
@@ -9,3 +13,8 @@ e
 d
 
 Frontend
+c
+b
+a
+d
+b
